@@ -1,6 +1,6 @@
-# illuminate
+# 70% keyboard
 
-A low profile sleek 75% keyboard.
+A low profile sleek 70% keyboard.
 
 
 ![Version](https://img.shields.io/badge/Version-1-blue)
