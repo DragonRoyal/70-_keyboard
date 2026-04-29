@@ -24,11 +24,11 @@ A low profile sleek 70% keyboard.
 
 
 ## PCB 
-<img width="1513" height="676" alt="image" src="https://github.com/user-attachments/assets/92ecd7a7-71db-4970-9dbe-4766c7579f2a" />
-<img width="651" height="931" alt="Screenshot 2025-12-24 202415" src="https://github.com/user-attachments/assets/f761d9e3-dc07-454d-9f61-fa92d35676f1" />
+<img width="1513" height="676" alt="image" src="https://i.postimg.cc/CKGvJ92y/530282161-92ecd7a7-71db-4970-9dbe-4766c7579f2a.png" />
+<img width="651" height="931" alt="Screenshot 2025-12-24 202415" src="https://i.postimg.cc/FK5WyhDM/530282199-f761d9e3-dc07-454d-9f61-fa92d35676f1.png" />
 
-<img width="428" height="915" alt="Screenshot 2025-12-24 202548" src="https://github.com/user-attachments/assets/c269f24d-4124-48e4-bb33-edb13be0772e" />
-<img width="717" height="916" alt="Screenshot 2025-12-24 173248" src="https://github.com/user-attachments/assets/5d227e1b-fb61-4ded-9b24-a061f32feeba" />
+<img width="428" height="915" alt="Screenshot 2025-12-24 202548" src="https://i.postimg.cc/mrfXYT8J/530282187-c269f24d-4124-48e4-bb33-edb13be0772e.png" />
+<img width="717" height="916" alt="Screenshot 2025-12-24 173248" src="https://i.postimg.cc/q7VbspjW/530282216-5d227e1b-fb61-4ded-9b24-a061f32feeba.png" />
 
 
 
@@ -36,4 +36,4 @@ A low profile sleek 70% keyboard.
 > Firmware is coded in C using the QMK library
 
 
-<img width="1459" height="536" alt="image" src="https://github.com/user-attachments/assets/67eb36cc-8479-4130-afa5-e6f6bad0c30a" />
+<img width="1459" height="536" alt="image" src="https://i.postimg.cc/rpXn1qQh/577021286-67eb36cc-8479-4130-afa5-e6f6bad0c30a.png" />
