@@ -16,9 +16,9 @@ A low profile sleek 70% keyboard.
 
 
 ## CAD
-<img width="1019" height="923" alt="Screenshot 2025-12-25 233109" src="https://github.com/user-attachments/assets/6d1283d5-ddd8-4777-aa6b-697f239a1eef" />
-<img width="1000" height="909" alt="Screenshot 2025-12-22 231447" src="https://github.com/user-attachments/assets/9e0745dd-85a6-405f-8e66-4fd80bb8601b" />
-<img width="1092" height="570" alt="Screenshot 2025-12-05 195305" src="https://github.com/user-attachments/assets/74f6d679-370d-4c17-95f8-97bc8c2108b9" />
+<img width="1019" height="923" alt="Screenshot 2025-12-25 233109" src="https://i.postimg.cc/26C0t2pz/530281942-9e0745dd-85a6-405f-8e66-4fd80bb8601b.png" />
+<img width="1000" height="909" alt="Screenshot 2025-12-22 231447" src="https://i.postimg.cc/gJGg7N9G/530281914-6d1283d5-ddd8-4777-aa6b-697f239a1eef.png" />
+<img width="1092" height="570" alt="Screenshot 2025-12-05 195305" src="https://i.postimg.cc/N06NbZnM/530281965-74f6d679-370d-4c17-95f8-97bc8c2108b9.png" />
 
 
 
