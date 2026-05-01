@@ -36,4 +36,5 @@ A low profile sleek 70% keyboard.
 > Firmware is coded in C using the QMK library
 
 
-<img width="1459" height="536" alt="image" src="https://i.postimg.cc/rpXn1qQh/577021286-67eb36cc-8479-4130-afa5-e6f6bad0c30a.png" />
+<img width="1403" height="212" alt="image" src="https://github.com/user-attachments/assets/eb0dcd45-84c9-4b7b-b72a-b004335ab4c0" />
+
