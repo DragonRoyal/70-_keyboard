@@ -35,6 +35,6 @@ A low profile sleek 70% keyboard.
 
 > Firmware is coded in C using the QMK library
 
-
+## BOM
 <img width="1403" height="212" alt="image" src="https://github.com/user-attachments/assets/eb0dcd45-84c9-4b7b-b72a-b004335ab4c0" />
 
