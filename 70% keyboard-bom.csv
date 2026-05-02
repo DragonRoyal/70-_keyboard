@@ -1,5 +1,5 @@
 Type,Qty,Value,Exclude from BOM,Exclude from Board,Footprint,Price (with tax), links
-Microcontroller,1,RaspberryPi_Pico,FALSE,FALSE,Module:RaspberryPi_Pico_Common_Unspecified,$4, self-sourced
+Microcontroller,1,RaspberryPi_Pico,FALSE,FALSE,Module:RaspberryPi_Pico_Common_Unspecified,$4, self-sourced,
 Diode,79,Diode 14B,FALSE,FALSE,Diode_SMD:D_SOD-123,$15, https://www.amazon.com/gp/product/B089KD46P6/ref=ox_sc_act_title_8?smid=A1K2H0ANPH97NN&psc=1,
 Led,78,WS2812B,FALSE,FALSE,PCM_marbastlib-various:SK6812 Mini-E Leds,$6, self-sourced
 Rotary Encoder,1,EC11 Rotary Encoder,FALSE,FALSE,Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,$3, self sourced,
